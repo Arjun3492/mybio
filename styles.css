@@ -1,0 +1,67 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+.topheader
+{ padding-top: 20px;
+  background-color: #cbf1f5;
+  height: 550px;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  width: 30%;
+  margin:0 auto ;
+  margin-top: 60px;
+}
+h2{
+  font-family:  'Merriweather', serif;';
+}
+.cloud1
+{
+  position:absolute;
+  top: 175px;
+  left: 250px;
+
+}
+.cloud2
+{
+  position:absolute;
+  top: 50px;
+  right: 250px;
+
+}
+.cloud3{
+  position:absolute;
+  top: 310px;
+  right:250px ;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+h4{
+  font-family: 'Montserrat', sans-serif;
+}
+#mypic{
+  margin-top: 20px;
+  height: 150px;
+  width: 150px;
+}
+#desktop{
+  width: 200px;
+  height: 200px;
+}
+#game
+{
+  height: 120px;
+  width: 120px;
+}
+#insta
+{
+  height: 20px;
+  width: 20px;
+}
+#whatsapp
+{
+  width: 20px;
+  height: 20px;
+}
